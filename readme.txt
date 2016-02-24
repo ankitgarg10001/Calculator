@@ -1,0 +1,1 @@
+a simple calculator where you can put numbers in textbox and do operations like add, subtract, divide, multiply and reciprocal and see result.
